@@ -1,0 +1,43 @@
+import React from "react";
+import { View, TouchableWithoutFeedback, Text } from "react-native";
+import Color from "color";
+import ButtonLogic from "../ButtonLogic";
+
+class Button2 extends ButtonLogic {
+  constructor(props) {
+    super(props);
+    this.init();
+  }
+  render() {
+    const mainColor = this.props.bg || "#116bfc";
+    const color = Color(mainColor);
+    let darkenColor = color.darken(0.3).hex();
+    if (this.props.lighten) {
+      darkenColor = color.lighten(0.3).hex();
+    }
+
+    const styles = {
+      backgroundColor: mainColor,
+      color: "white",
+      padding: (this.props.padding)? this.props.padding: 10,
+      borderRadius: 5,
+      borderWidth: 1,
+      overflow: "hidden",
+      margin: 5,
+      borderColor: darkenColor,
+      textAlign: 'center',
+      fontSize: this.props.size,
+      ...this.props
+    };
+
+    return (
+      <TouchableWithoutFeedback onPress={() => this.pressFunc(null)}>
+        <View>
+          <Text style={styles}>{this.props.title}</Text>
+        </View>
+      </TouchableWithoutFeedback>
+    );
+  }
+}
+
+export default Button2;

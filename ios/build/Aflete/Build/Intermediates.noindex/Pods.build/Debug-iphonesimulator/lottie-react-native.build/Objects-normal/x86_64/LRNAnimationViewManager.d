@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/jaydenmaddison/code/AfleteApp/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNAnimationViewManager.m \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Target\ Support\ Files/lottie-react-native/lottie-react-native-prefix.pch \
+  /Users/jaydenmaddison/code/AfleteApp/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNAnimationViewManager.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTViewManager.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTConvert.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTAnimationType.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTBorderStyle.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTLog.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTAssert.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTPointerEvents.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTTextDecorationLineType.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTEventDispatcher.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/UIView+React.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTComponent.h \
+  /Users/jaydenmaddison/code/AfleteApp/node_modules/lottie-react-native/src/ios/LottieReactNative/LRNContainerView.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTView.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/Lottie.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationTransitionController.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimatedSwitch.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimatedControl.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTCacheProvider.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationView.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationView_Compat.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTComposition.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTKeypath.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTValueDelegate.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationCache.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTBlockCallback.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTInterpolatorCallback.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTValueCallback.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTUIManager.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTRootView.h

@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKey.m \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Target\ Support\ Files/JWT/JWT-prefix.pch \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKey.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Supplement/JWTDeprecations.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity+Extraction.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/FrameworkSupplement/JWT.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Coding/JWTCoding.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Coding/JWTCoding+ResultTypes.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Coding/JWTCoding+VersionOne.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Coding/JWTCoding+VersionTwo.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Coding/JWTCoding+VersionThree.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithm.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/JWTRSAlgorithm.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithmFactory.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithmNone.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/HSFamily/JWTAlgorithmHSBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/JWTAlgorithmRSBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithmErrorDescription.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/ESFamily/JWTAlgorithmESBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/ESFamily/JWTAlgorithmAsymmetricBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolder.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Supplement/JWTBase64Coder.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolderChain.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/ClaimSet/JWTClaimsSet.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/ClaimSet/JWTClaim.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/ClaimSet/JWTClaimsSetSerializer.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/ClaimSet/JWTClaimsSetVerifier.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Supplement/JWTErrorDescription.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKeyExtractor.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity+ErrorHandling.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity+ExternalRepresentation.h

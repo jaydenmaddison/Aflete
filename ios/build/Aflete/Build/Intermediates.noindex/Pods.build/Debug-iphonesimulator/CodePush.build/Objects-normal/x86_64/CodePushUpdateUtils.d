@@ -1,0 +1,44 @@
+dependencies: \
+  /Users/jaydenmaddison/code/AfleteApp/node_modules/react-native-code-push/ios/CodePush/CodePushUpdateUtils.m \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Target\ Support\ Files/CodePush/CodePush-prefix.pch \
+  /Users/jaydenmaddison/code/AfleteApp/node_modules/react-native-code-push/ios/CodePush/CodePush.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTEventEmitter.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Public/SSZipArchive/SSZipArchive.modulemap \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/JWT/Core/FrameworkSupplement/JWT.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCoding.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCoding+ResultTypes.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTDeprecations.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCoding+VersionOne.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCoding+VersionTwo.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCoding+VersionThree.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithm.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTRSAlgorithm.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmFactory.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmNone.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmHSBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmRSBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmErrorDescription.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmESBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmAsymmetricBase.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmDataHolder.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTBase64Coder.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTAlgorithmDataHolderChain.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTClaimsSet.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTClaim.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTClaimsSetSerializer.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTClaimsSetVerifier.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTErrorDescription.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCryptoKey.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCryptoKeyExtractor.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity+ErrorHandling.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWT.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity+ExternalRepresentation.h \
+  /Users/jaydenmaddison/code/AfleteApp/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity+Extraction.h
